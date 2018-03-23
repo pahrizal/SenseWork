@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629315903749",
+    "project_id": "firebase-sensework"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629315903749:android:4e64bd943e8b809c",
+        "android_client_info": {
+          "package_name": "tech.sense.sensework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629315903749-jf0cr7fm3e2fmgc2scrpvfn4a7guh4ro.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "629315903749-f381usn1n3dp9633k2ueq7mobffht34t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.sense.sensework",
+            "certificate_hash": "05e0f10fbf7a764286c55ac0f07a7a77c084a9c3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4nVLXunxYOljTUKbxbR38tXrxNVKHikw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
